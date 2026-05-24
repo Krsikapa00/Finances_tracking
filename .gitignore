@@ -1,0 +1,18 @@
+
+# Folders holding documents
+Statements/*/*
+Investments/*/*
+
+# Output files with personal information
+*.xls*
+*.json
+
+# Output files with personal information
+*.xls*
+*.csv
+
+# Claude stuff
+.claude/
+
+
+
